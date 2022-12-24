@@ -1,0 +1,8 @@
+git add -A -> select all files and folder and set them in staging form.
+git checkout -f -> match all the files to last commit. / also used to change branch.
+git log -p -(number of logs) -> each log with edit history.
+git diff -> match our working area with staging area.
+git rm --cached (file name) -> untrack certain file.
+git status -s -> summarized status
+git branch (name) -> create a new branch
+git branch -> view branches
